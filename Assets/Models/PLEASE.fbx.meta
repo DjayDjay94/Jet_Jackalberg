@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 5524bde680c9469489456eb7644c154e
+timeCreated: 1525113383
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Distal_Phalanx
+    100004: Distal_Phalanx 1
+    100006: Distal_Phalanx 2
+    100008: Distal_Phalanx 3
+    100010: Distal_Phalanx 4
+    100012: Distal_Phalanx 5
+    100014: Distal_Phalanx 6
+    100016: Distal_Phalanx 7
+    100018: Final_Model
+    100020: Hair_1
+    100022: Hair_2
+    100024: Hair_3
+    100026: Hair_OS_CTRL
+    100028: Hair_OS_GRP
+    100030: Head
+    100032: Head_OS_CTRL
+    100034: Head_OS_GRP
+    100036: Head_Tip
+    100038: Hip_Sway
+    100040: HipSway_OS_CTRL
+    100042: HipSway_OS_GRP
+    100044: IK_Handles
+    100046: ikHandle1
+    100048: ikHandle2
+    100050: Jets_gun1:Gun
+    100052: L_shoulder_ARM_GRP
+    100054: L_shoulder_OS_GRP
+    100056: Left_Ankle
+    100058: Left_Clavicle
+    100060: Left_Elbow
+    100062: Left_elbow_OS_CTRL
+    100064: Left_foot_OS_CTRL
+    100066: Left_foot_OS_GRP
+    100068: Left_Hand
+    100070: Left_Heel
+    100072: Left_Hip
+    100074: Left_Knee
+    100076: Left_Knee_OS_CTRL
+    100078: Left_Shoulder
+    100080: Left_shoulder_OFFSET_CTRL1
+    100082: Left_Toes
+    100084: Left_Wrist
+    100086: Left_Wrist_OS_CTRL
+    100088: Metacarpal_1
+    100090: Metacarpal_1 1
+    100092: Metacarpal_2
+    100094: Metacarpal_2 1
+    100096: Metacarpal_3
+    100098: Metacarpal_3 1
+    100100: Metacarpal_4
+    100102: Metacarpal_4 1
+    100104: Middle_Phalanx
+    100106: Middle_Phalanx 1
+    100108: Middle_Phalanx 2
+    100110: Middle_Phalanx 3
+    100112: Middle_Phalanx 4
+    100114: Middle_Phalanx 5
+    100116: Middle_Phalanx 6
+    100118: Middle_Phalanx 7
+    100120: Neck
+    100122: //RootNode
+    100124: Proximal_Phalanx
+    100126: Proximal_Phalanx 1
+    100128: Proximal_Phalanx 2
+    100130: Proximal_Phalanx 3
+    100132: Proximal_Phalanx 4
+    100134: Proximal_Phalanx 5
+    100136: Proximal_Phalanx 6
+    100138: Proximal_Phalanx 7
+    100140: R_Elbow_OS_GRP
+    100142: R_Elbow_OS_GRP 1
+    100144: R_shoulder_ARM_GRP
+    100146: R_Shoulder_OS_GRP
+    100148: R_Wrist_OS_GRP
+    100150: R_Wrist_OS_GRP 1
+    100152: Right_Ankle
+    100154: Right_Clavicle
+    100156: Right_Elbow
+    100158: Right_elbow_OS_CTRL
+    100160: Right_foot_OS_CTRL
+    100162: Right_Foot_OS_GRP
+    100164: Right_Hand
+    100166: Right_Heel
+    100168: Right_Hip
+    100170: Right_Knee
+    100172: Right_Knee_OS_CTRL
+    100174: Right_Shoulder
+    100176: Right_shoulder_OFFSET_CTRL
+    100178: Right_Toes
+    100180: Right_Wrist
+    100182: Right_Wrist_OS_CTRL
+    100184: Spine2
+    100186: Spine2_OS_CTRL
+    100188: Spine2_OS_GRP
+    100190: Spine_1
+    100192: Spine_OS_CTRL
+    100194: Spine_OS_GRP
+    100196: Tail_1
+    100198: Tail_2
+    100200: Tail_OS_CTRL
+    100202: Tail_OS_GRP
+    100204: Tail_tip
+    400000: Chest
+    400002: Distal_Phalanx
+    400004: Distal_Phalanx 1
+    400006: Distal_Phalanx 2
+    400008: Distal_Phalanx 3
+    400010: Distal_Phalanx 4
+    400012: Distal_Phalanx 5
+    400014: Distal_Phalanx 6
+    400016: Distal_Phalanx 7
+    400018: Final_Model
+    400020: Hair_1
+    400022: Hair_2
+    400024: Hair_3
+    400026: Hair_OS_CTRL
+    400028: Hair_OS_GRP
+    400030: Head
+    400032: Head_OS_CTRL
+    400034: Head_OS_GRP
+    400036: Head_Tip
+    400038: Hip_Sway
+    400040: HipSway_OS_CTRL
+    400042: HipSway_OS_GRP
+    400044: IK_Handles
+    400046: ikHandle1
+    400048: ikHandle2
+    400050: Jets_gun1:Gun
+    400052: L_shoulder_ARM_GRP
+    400054: L_shoulder_OS_GRP
+    400056: Left_Ankle
+    400058: Left_Clavicle
+    400060: Left_Elbow
+    400062: Left_elbow_OS_CTRL
+    400064: Left_foot_OS_CTRL
+    400066: Left_foot_OS_GRP
+    400068: Left_Hand
+    400070: Left_Heel
+    400072: Left_Hip
+    400074: Left_Knee
+    400076: Left_Knee_OS_CTRL
+    400078: Left_Shoulder
+    400080: Left_shoulder_OFFSET_CTRL1
+    400082: Left_Toes
+    400084: Left_Wrist
+    400086: Left_Wrist_OS_CTRL
+    400088: Metacarpal_1
+    400090: Metacarpal_1 1
+    400092: Metacarpal_2
+    400094: Metacarpal_2 1
+    400096: Metacarpal_3
+    400098: Metacarpal_3 1
+    400100: Metacarpal_4
+    400102: Metacarpal_4 1
+    400104: Middle_Phalanx
+    400106: Middle_Phalanx 1
+    400108: Middle_Phalanx 2
+    400110: Middle_Phalanx 3
+    400112: Middle_Phalanx 4
+    400114: Middle_Phalanx 5
+    400116: Middle_Phalanx 6
+    400118: Middle_Phalanx 7
+    400120: Neck
+    400122: //RootNode
+    400124: Proximal_Phalanx
+    400126: Proximal_Phalanx 1
+    400128: Proximal_Phalanx 2
+    400130: Proximal_Phalanx 3
+    400132: Proximal_Phalanx 4
+    400134: Proximal_Phalanx 5
+    400136: Proximal_Phalanx 6
+    400138: Proximal_Phalanx 7
+    400140: R_Elbow_OS_GRP
+    400142: R_Elbow_OS_GRP 1
+    400144: R_shoulder_ARM_GRP
+    400146: R_Shoulder_OS_GRP
+    400148: R_Wrist_OS_GRP
+    400150: R_Wrist_OS_GRP 1
+    400152: Right_Ankle
+    400154: Right_Clavicle
+    400156: Right_Elbow
+    400158: Right_elbow_OS_CTRL
+    400160: Right_foot_OS_CTRL
+    400162: Right_Foot_OS_GRP
+    400164: Right_Hand
+    400166: Right_Heel
+    400168: Right_Hip
+    400170: Right_Knee
+    400172: Right_Knee_OS_CTRL
+    400174: Right_Shoulder
+    400176: Right_shoulder_OFFSET_CTRL
+    400178: Right_Toes
+    400180: Right_Wrist
+    400182: Right_Wrist_OS_CTRL
+    400184: Spine2
+    400186: Spine2_OS_CTRL
+    400188: Spine2_OS_GRP
+    400190: Spine_1
+    400192: Spine_OS_CTRL
+    400194: Spine_OS_GRP
+    400196: Tail_1
+    400198: Tail_2
+    400200: Tail_OS_CTRL
+    400202: Tail_OS_GRP
+    400204: Tail_tip
+    2100000: blinn3
+    2100002: blinn1
+    2100004: lambert2
+    2100006: blinn2
+    2100008: lambert4
+    2300000: Jets_gun1:Gun
+    3300000: Jets_gun1:Gun
+    4300000: Final_Model
+    4300002: Jets_gun1:Gun
+    7400000: Take 001
+    7400002: Idle
+    7400004: Move
+    7400006: Jump
+    7400008: MidAir
+    7400010: Land
+    9500000: //RootNode
+    13700000: Final_Model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MidAir
+      takeName: Take 001
+      firstFrame: 136
+      lastFrame: 139
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Land
+      takeName: Take 001
+      firstFrame: 141
+      lastFrame: 145
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
